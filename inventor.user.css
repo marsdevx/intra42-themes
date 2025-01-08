@@ -1,0 +1,60 @@
+/*                                                                                        ⣇⣿⠘⣿⣿⣿⡿⡿⣟⣟⢟⢟⢝⠵⡝⣿⡿⢂⣼⣿⣷⣌⠩⡫⡻⣝⠹⢿⣿⣷   */
+/*                                                                                        ⡆⣿⣆⠱⣝⡵⣝⢅⠙⣿⢕⢕⢕⢕⢝⣥⢒⠅⣿⣿⣿⡿⣳⣌⠪⡪⣡⢑⢝⣇   */
+/*   File:         inventor.user.css                                                      ⡆⣿⣿⣦⠹⣳⣳⣕⢅⠈⢗⢕⢕⢕⢕⢕⢈⢆⠟⠋⠉⠁⠉⠉⠁⠈⠼⢐⢕⢽   */
+/*                                                                                        ⡗⢰⣶⣶⣦⣝⢝⢕⢕⠅⡆⢕⢕⢕⢕⢕⣴⠏⣠⡶⠛⡉⡉⡛⢶⣦⡀⠐⣕⢕   */
+/*   Project:      intra42-themes                                                         ⡝⡄⢻⢟⣿⣿⣷⣕⣕⣅⣿⣔⣕⣵⣵⣿⣿⢠⣿⢠⣮⡈⣌⠨⠅⠹⣷⡀⢱⢕   */
+/*   Github:       marsdevx                                                               ⡝⡵⠟⠈⢀⣀⣀⡀⠉⢿⣿⣿⣿⣿⣿⣿⣿⣼⣿⢈⡋⠴⢿⡟⣡⡇⣿⡇⡀⢕   */
+/*                                                                                        ⡝⠁⣠⣾⠟⡉⡉⡉⠻⣦⣻⣿⣿⣿⣿⣿⣿⣿⣿⣧⠸⣿⣦⣥⣿⡇⡿⣰⢗⢄   */
+/*   Created:      14:51   08/01/2025                                                     ⠁⢰⣿⡏⣴⣌⠈⣌⠡⠈⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣬⣉⣉⣁⣄⢖⢕⢕⢕   */
+/*   Updated:      14:51   08/01/2025                                                     ⡀⢻⣿⡇⢙⠁⠴⢿⡟⣡⡆⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣵⣵⣿   */
+/*                                                                                        ⡻⣄⣻⣿⣌⠘⢿⣷⣥⣿⠇⣿⣿⣿⣿⣿⣿⠛⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   */
+/*   Path:         ./inventor.user.css                                                    ⣷⢄⠻⣿⣟⠿⠦⠍⠉⣡⣾⣿⣿⣿⣿⣿⣿⢸⣿⣦⠙⣿⣿⣿⣿⣿⣿⣿⣿⠟   */
+/*                                                                                        ⡕⡑⣑⣈⣻⢗⢟⢞⢝⣻⣿⣿⣿⣿⣿⣿⣿⠸⣿⠿⠃⣿⣿⣿⣿⣿⣿⡿⠁⣠   */
+/*                                                                                        ⡝⡵⡈⢟⢕⢕⢕⢕⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣿⣿⣿⣿⣿⠿⠋⣀⣈⠙   */
+/*                                                                                        ⡝⡵⡕⡀⠑⠳⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⢉⡠⡲⡫⡪⡪⡣   */
+/* ==UserStyle==
+@name           intra 42 inventor
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description    Inventor theme for Intra 42
+@author         marsdevx
+@homepageURL    https://github.com/marsdevx/intra42-themes
+@updateURL      https://github.com/marsdevx/intra42-themes/raw/refs/heads/main/inventor.user.css
+==/UserStyle== */
+
+@-moz-document domain("intra.42.fr") {
+	.profile-item-top {
+		background-image: url(https://64.media.tumblr.com/633918a416d9138be4e37814150e27ea/3bf95e73e5e495c8-1e/s500x750/e6b8a07a3c6058df94e6ee97eeee427cbc204595.gifv) !important;
+	}
+
+	:root {
+	--theme-color: #00C46B;
+	--theme-color-dark: var(--theme-color);
+	--theme-color-light: var(--theme-color);
+	--logtime-chart-24h-color: var(--theme-color);
+	}
+
+	.coalition-span {
+		color: var(--theme-color) !important; 
+	}
+
+	.user-header-box {
+		ol {
+				li {
+						background-color: var(--theme-color) !important; 
+				}
+		}
+	}
+
+	.coalition-flag--flag {
+		fill: var(--theme-color) !important;
+	}
+
+	.progress-bar {
+		background-color:var(--theme-color) !important;
+	}
+	
+	.fc-event:not([style*="background"]) {
+		background: var(--theme-color) !important;
+	}
+}

@@ -1,0 +1,59 @@
+/*                                                                                          ⣿⣿⣿⣿⣿⣿⣿⡿⢟⣫⣥⣶⣖⣲⣖⣲⡖⠉⠙⠛⢿⣿⣿⣿⣿⣿⣿⣿   */
+/*                                                                                          ⣿⣿⣿⣿⣿⢟⢍⣮⡷⠗⣊⣵⣾⣿⣿⣿⣷⣍⡳⢄⠀⠉⠻⢿⣿⣿⣿⣿   */
+/*   File:         your_name.user.css                                                       ⣿⣿⣿⠟⢁⣵⣷⣶⣶⠮⠿⠿⣿⣿⣿⣿⣿⢉⡻⢷⡄⠀⣠⣄⠻⣿⣿⣿   */
+/*                                                                                          ⣿⣿⢯⢮⣾⡿⣰⡟⡡⣪⣥⣶⡄⠰⣿⣿⣿⣮⣿⡎⣿⣶⡸⣿⡆⠙⣿⣿   */
+/*   Project:      intra42-themes                                                           ⣿⣏⠃⣿⣿⣿⡏⢱⣾⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⣼⣿⣿⣷⣧⢠⡀⢸⣿   */
+/*   Github:       marsdevx                                                                 ⣿⡈⢀⡏⣬⣿⣿⡜⣿⣿⣿⣿⣿⣿⢻⣿⣿⣿⣿⣯⣿⡻⣻⣻⡜⠇⢀⣿   */
+/*                                                                                          ⣧⠇⣾⣇⣫⡿⢿⣿⣌⣙⡛⢉⣽⣿⣿⣿⣿⣿⣿⣿⣿⢿⣜⢹⣿⠀⠈⣽   */
+/*   Created:      14:53   08/01/2025                                                       ⣿⠀⣿⣿⣿⣷⣾⣿⣿⣿⣿⣬⣿⣿⣿⣿⣿⣿⣿⣯⣾⣿⠿⡿⣀⡀⠀⣿   */
+/*   Updated:      14:53   08/01/2025                                                       ⣿⣇⢸⡿⣿⣿⢿⣿⣿⣿⣿⡻⣿⣿⣿⢻⣿⣿⣿⣿⡿⢡⡾⣻⣿⠃⢸⣿   */
+/*                                                                                          ⣿⣿⣄⢳⡹⣏⢟⣯⣷⣿⠛⣣⣭⡝⣿⣿⣿⣝⣻⡿⠷⠻⡁⡋⢀⢠⣿⣿   */
+/*   Path:         ./your_name.user.css                                                     ⣿⣿⣿⣆⠳⢀⡻⣿⣿⣿⣜⠻⡿⣉⣼⣿⡿⠿⠿⠛⠀⡀⠉⠐⣵⣿⣿⣿   */
+/*                                                                                          ⣿⣿⣿⣿⣷⣤⡈⠢⢝⡫⢿⣷⣽⣛⣛⣿⡶⠆⣀⠔⠋⢀⣤⣾⣿⣿⣿⣿   */
+/*                                                                                          ⣿⣿⣿⣿⣿⣿⣿⣶⣤⣍⣛⠈⠙⠉⠉⠡⠤⣤⣀⣤⣴⣿⣿⣿⣿⣿⣿⣿   */
+/* ==UserStyle==
+@name           intra 42 your name
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description    Your Name theme for Intra 42
+@author         marsdevx
+@homepageURL    https://github.com/marsdevx/intra42-themes
+@updateURL      https://github.com/marsdevx/intra42-themes/raw/refs/heads/main/your_name.user.css
+==/UserStyle== */
+
+@-moz-document domain("intra.42.fr") {
+	.profile-item-top {
+		background-image: url(https://i.pinimg.com/originals/f5/f2/74/f5f27448c036af645c27467c789ad759.gif) !important;
+	}
+
+	:root {
+	--theme-color: #63A0CE;
+	--theme-color-dark: var(--theme-color);
+	--theme-color-light: var(--theme-color);
+	--logtime-chart-24h-color: var(--theme-color);
+	}
+
+	.coalition-span {
+		color: var(--theme-color) !important; 
+	}
+
+	.user-header-box {
+		ol {
+				li {
+						background-color: var(--theme-color) !important; 
+				}
+		}
+	}
+
+	.coalition-flag--flag {
+		fill: var(--theme-color) !important;
+	}
+
+	.progress-bar {
+		background-color:var(--theme-color) !important;
+	}
+
+	.fc-event:not([style*="background"]) {
+		background: var(--theme-color) !important;
+	}
+}

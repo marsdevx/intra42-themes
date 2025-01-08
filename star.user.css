@@ -1,0 +1,68 @@
+/*                                                                           ⣿⣿⣿⣿⣿⣿⣿⣿⣯⣿⠋⠛⢿⣿⡿⠿⠛⣛⣛⣉⣩⣭⣭⣭⣭⣭⣍⣉⣛⡛⠿⢿⠃⠤⠘⣿⡾⣿⣿⣿⣿⣿⣿   */
+/*                                                                           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠇⠰⡄⠲⣾⣿⡿⢿⣛⣻⣭⣭⣭⣭⣭⣭⣿⣛⣻⣿⣿⡇⢌⡁⡆⢿⣿⣿⣿⣿⣿⣿⣿   */
+/*                                                                           ⣿⣿⣿⣿⣿⣿⣿⠟⣩⣴⣿⡐⢡⠱⢹⣾⣿⣿⣿⡿⢿⣿⣛⣛⣛⣛⣻⣿⢿⣿⣿⣄⠂⠄⢳⣆⠻⣿⣯⣿⣿⣿⣿   */
+/*                                                                           ⣿⣿⣿⣿⣿⡿⢁⣾⣿⣿⡿⡁⠆⡀⠇⣿⠏⣱⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣹⣆⢀⠰⡹⣷⡈⢿⣿⣹⣿⣿   */
+/*                                                                           ⣿⣿⣿⣿⠏⣰⣿⣿⡿⣫⣤⣻⣦⣔⣸⡿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡻⣟⣭⣭⣊⢷⡌⢿⣿⣿⣿   */
+/*                                                                           ⣿⣻⣿⢏⣾⣿⣿⡟⣵⣻⣽⣾⣷⣾⣭⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⢿⣿⣿⣿⣿⣷⣿⣿⣿⣿⣿⣻⡌⢿⣷⣿   */
+/*   File:         star.user.css                                             ⣷⣿⠇⣼⣿⣿⣿⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⣿⣿⣯⣿⣿⣯⣿⡿⣿⣿⣿⣿⡈⣿⣿   */
+/*                                                                           ⣿⡟⣸⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣿⣿⣿⣿⣿⣏⣿⣿⣿⣿⣿⣿⢻⣿⢿⣹⡏⣿⣿⣿⢻⣿⣿⣿⣇⢻⣿   */
+/*   Project:      intra42-themes                                            ⣿⠃⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿⣶⣿⢻⣿⡿⣿⣿⢻⣽⣹⣿⣿⣿⣿⡾⣿⡾⣿⡇⣿⡸⣿⢸⣿⣿⣿⣿⠘⣿   */
+/*   Github:       marsdevx                                                  ⣿⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢸⣿⣏⢼⣻⣷⢻⣿⢸⡿⡏⣿⣿⣿⣿⢃⣿⣇⡏⣿⠛⠺⠾⠋⣿⣿⣿⣿⡄⣿   */
+/*                                                                           ⡟⢸⣿⣿⣿⣿⣿⣿⣿⣟⣿⣿⣿⣎⡿⠾⠛⠘⠋⠘⠻⢸⡇⠇⢻⣿⡿⠹⣿⠙⣵⡆⠀⠀⢤⣄⡀⣿⣿⣿⣿⡇⢸   */
+/*   Created:      14:52   08/01/2025                                        ⡇⢸⣿⣿⣿⣿⣿⣿⣿⣿⠼⣿⣿⡋⠀⣠⣶⡷⠀⠀⠀⢠⣸⣿⣿⣿⣿⣿⣿⡇⠉⠀⠀⢀⠘⣿⡇⢸⣿⡼⣿⡇⢸   */
+/*   Updated:      14:52   08/01/2025                                        ⣷⢸⣿⣿⣿⣿⣿⣿⣿⢿⡶⢻⣿⡇⣾⣿⠈⠁⠀⠀⢠⠀⣿⣿⣿⣿⣿⣿⣿⣿⡘⣦⣴⡾⢠⡿⢙⡘⣿⣇⢸⡇⢸   */
+/*                                                                           ⣿⠀⣿⣿⣿⣿⣿⣿⡿⣫⣕⢻⣿⣇⠾⣿⣆⠶⣶⣶⡟⣰⣿⣿⣿⣿⣿⣿⣿⣿⣷⣬⡍⣤⣹⡶⣿⡇⣿⡿⡸⡇⢸   */
+/*   Path:         ./star.user.css                                           ⣿⡀⣿⣿⣿⣿⣿⡿⣼⢯⣯⠋⣿⣿⣰⣶⣩⣶⣴⢦⣾⣿⣿⣿⣿⣿⣿⡿⣿⣿⣿⡿⢟⣿⣵⣻⣳⡧⣿⣿⣇⡇⣿   */
+/*                                                                           ⣿⡇⣿⣿⣿⣿⣿⣷⠹⡼⣧⣧⢿⣿⢇⢧⢯⢯⣟⣾⣿⢋⢩⠍⣭⣵⣶⣶⣶⣦⡀⠛⢸⣿⣿⣿⣷⡯⣿⣿⣾⠀⣿   */
+/*                                                                           ⣿⣧⢸⣿⣿⣿⣿⣿⣷⡉⣓⠾⢸⣿⣿⣮⣯⣛⣯⣿⣿⢸⣶⣿⣿⣿⣿⣿⣿⣿⣿⡦⣸⣿⣿⣿⣿⠃⡿⣿⣿⠀⣿   */
+/*                                                                           ⣿⣿⠸⣿⣿⣿⡏⣿⣿⣷⣿⣽⢸⣿⣼⡞⣿⣿⣿⣿⣿⣆⢻⣿⣿⣿⣿⣿⣿⣿⠟⣱⣿⣿⡿⢋⢡⢶⣷⣿⣿⠀⣿   */
+/*                                                                           ⣿⣿⠆⣿⣿⣿⣿⣿⣿⣿⣿⢿⢸⣿⡏⣷⢈⢿⣿⣿⣿⣿⣇⡉⠿⣿⣿⡿⠏⣱⣾⡿⢉⣰⣾⠷⣹⣾⢿⣏⡇⢸⣿   */
+/*                                                                           ⣿⣿⡇⢿⡇⣿⣿⣹⣿⣿⣿⣿⢸⣿⣿⣿⡞⢻⢰⡹⣭⣝⣛⣛⣛⡗⣚⢋⣭⣥⣶⣶⣿⣿⢟⣾⢧⡟⣾⡿⣹⢸⣿   */
+/*                                                                           ⣿⣿⡇⢸⣿⢿⣿⣿⣿⣿⡟⡟⣾⣿⣧⢿⣟⠈⣼⣿⣿⣿⣿⣶⡏⣷⡎⣻⢿⢻⣿⡇⣿⣯⣿⣏⣾⣿⣿⢡⣻⠈⣿   */
+/*                                                                           ⣿⣿⣿⠈⣿⢸⣿⣿⣿⣇⣿⢷⣿⣿⡽⣼⣿⢻⣸⣿⣿⣿⣿⣿⡫⣌⣿⣿⣜⣲⣭⣛⠏⣾⡟⣼⡟⣿⣿⣺⣿⡄⢿   */
+/* ==UserStyle==
+@name           intra 42 star
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description    Star theme for Intra 42
+@author         marsdevx
+@homepageURL    https://github.com/marsdevx/intra42-themes
+@updateURL      https://github.com/marsdevx/intra42-themes/raw/refs/heads/main/star.user.css
+==/UserStyle== */
+
+@-moz-document domain("intra.42.fr") {
+	.profile-item-top {
+		background-image: url(https://cdn.myportfolio.com/a7dcc6d5ac1134b2d40ac6d1c5552304/1f0a0456-b934-4f28-beee-c47de7308667_rw_1920.gif?h=5ecc8b473e70030b5e3d8b8ef826ca1c) !important;
+	}
+
+	:root {
+	--theme-color: #946B8C;
+	--theme-color-dark: var(--theme-color);
+	--theme-color-light: var(--theme-color);
+	--logtime-chart-24h-color: var(--theme-color);
+	}
+
+	.coalition-span {
+		color: var(--theme-color) !important; 
+	}
+
+	.user-header-box {
+		ol {
+				li {
+						background-color: var(--theme-color) !important; 
+				}
+		}
+	}
+
+	.coalition-flag--flag {
+		fill: var(--theme-color) !important;
+	}
+
+	.progress-bar {
+		background-color:var(--theme-color) !important;
+	}
+
+	.fc-event:not([style*="background"]) {
+		background: var(--theme-color) !important;
+	}
+}
