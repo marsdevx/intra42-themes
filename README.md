@@ -1,13 +1,16 @@
 <div align="center">
   <img src="imgs/logo.png" width="320px" alt="Intra 42 School Themes">
 </div>
+
 <br>
+
 <div align="center">
-  <img src="https://img.shields.io/github/last-commit/marsdevx/intra42-themes?logo=github&logoColor=f5f5f5&label=Last%20Commit&color=8A2BE2&labelColor=2C2C2C" alt="Last Commit">
-  <img src="https://img.shields.io/badge/Languages-CSS-2181C1?logo=coder&logoColor=f5f5f5&labelColor=2C2C2C" alt="Languages">
-  <img src="https://img.shields.io/badge/Themes-%205%20-748ADB?logo=figshare&logoColor=f5f5f5&labelColor=2C2C2C" alt="Themes">
-  <img src="https://img.shields.io/badge/Extension-Stylus-00C853?logo=stylus&logoColor=f5f5f5&labelColor=2C2C2C" alt="Stylus Extension">
-  <img src="https://img.shields.io/badge/Browsers-Google Chrome%20|%20Firefox-D8B22E?logo=firefoxbrowser&logoColor=f5f5f5&labelColor=2C2C2C" alt="Web Browsers"><br>
+  <img src="https://custom-icon-badges.demolab.com/github/last-commit/marsdevx/intra42-themes?logoColor=white&labelColor=2C2C2C&label=Last%20Commit&color=8A2BE2&logo=mark-github" alt="Last Commit">
+  <img src="https://custom-icon-badges.demolab.com/static/v1?logoColor=white&labelColor=2C2C2C&label=Languages&message=CSS&color=D32F2F&logo=file-code" alt="Languages">
+   <br>
+  <img src="https://custom-icon-badges.demolab.com/static/v1?logoColor=white&labelColor=2C2C2C&label=Browsers&message=Google%20Chrome%20|%20Firefox&color=15CDD3&logo=globe" alt="Web Browsers">
+  <img src="https://custom-icon-badges.demolab.com/static/v1?logoColor=white&labelColor=2C2C2C&label=Themes&message=%205%20&color=748ADB&logo=file-media" alt="Themes">
+  <img src="https://custom-icon-badges.demolab.com/static/v1?logoColor=white&labelColor=2C2C2C&label=Extension&message=Stylus&color=F47F42&logo=desktop-download" alt="Stylus Extension">
 </div>
 
 ---
