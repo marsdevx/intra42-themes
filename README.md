@@ -7,10 +7,9 @@
 <div align="center">
   <img src="https://custom-icon-badges.demolab.com/github/last-commit/marsdevx/intra42-themes?logoColor=white&labelColor=2C2C2C&label=Last%20Commit&color=8A2BE2&logo=mark-github" alt="Last Commit">
   <img src="https://custom-icon-badges.demolab.com/static/v1?logoColor=white&labelColor=2C2C2C&label=Languages&message=CSS&color=D32F2F&logo=file-code" alt="Languages">
-   <br>
-  <img src="https://custom-icon-badges.demolab.com/static/v1?logoColor=white&labelColor=2C2C2C&label=Browsers&message=Google%20Chrome%20|%20Firefox&color=15CDD3&logo=globe" alt="Web Browsers">
   <img src="https://custom-icon-badges.demolab.com/static/v1?logoColor=white&labelColor=2C2C2C&label=Themes&message=%205%20&color=748ADB&logo=file-media" alt="Themes">
   <img src="https://custom-icon-badges.demolab.com/static/v1?logoColor=white&labelColor=2C2C2C&label=Extension&message=Stylus&color=F47F42&logo=desktop-download" alt="Stylus Extension">
+  <img src="https://custom-icon-badges.demolab.com/static/v1?logoColor=white&labelColor=2C2C2C&label=Browsers&message=Google%20Chrome%20|%20Firefox&color=009688&logo=globe" alt="Web Browsers">
 </div>
 
 ---
